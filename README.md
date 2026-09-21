@@ -1,3 +1,5 @@
+![Insignia Plata](https://img.shields.io/badge/CALIDAD%20GITHUB-INSIGNIA%20DE%20PLATA-c0c0c0?style=for-the-badge)
+
 # Lista de Verificación de Calidad
 
 ## Proyecto
